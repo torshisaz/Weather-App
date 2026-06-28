@@ -1,5 +1,4 @@
 # Weather App
-
 Real-time weather application with forecasts.
 
 ## Features
