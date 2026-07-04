@@ -12,6 +12,5 @@ Real-time weather application with forecasts.
 - OpenWeather API
 - Node.js
 - PostgreSQL
-
 ## License
 MIT
