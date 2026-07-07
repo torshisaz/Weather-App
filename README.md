@@ -9,7 +9,7 @@ Real-time weather application with forecasts.
 ## Tech Stack
 - React
 - OpenWeather API
-- Node.js
+- .js
 - PostgreSQL
 ## License
 MIT
