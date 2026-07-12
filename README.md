@@ -2,7 +2,7 @@
 Real-time weather application with forecasts.
 ## Features
 - Current weather
-- 7-day forecast
+- 7day forecast
 - Hourly updates
 - Multiple locations
 - Weather maps
