@@ -6,7 +6,6 @@ Real-time weather application with forecasts.
 - Hourly updates
 - Multiple locations
 - Weather maps
-- 
 ## Tech Stack
 - React
 - OpenWeather API
